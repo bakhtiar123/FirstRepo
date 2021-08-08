@@ -2,4 +2,5 @@ Hello there,
 How are you doing.
 #staySafe #stayHome
 Please wear a mask and wash your hands regularly.
-We have update the file.
+editing and committing the changes using git&gui.
+Let update it
