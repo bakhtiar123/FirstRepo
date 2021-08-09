@@ -1,1 +1,0 @@
-This file is created to automatically run the jenkins job. when we will commit the file and push it on remote repo, jenkins job will get triggered.
